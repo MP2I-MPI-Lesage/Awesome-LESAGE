@@ -14,5 +14,6 @@ Awesome Links from MP2I/MPI Lesage's students
 ### Tutorials
 - [From scratch dev tutorial (javidx9)](https://youtube.com/playlist?list=PLrOv9FMX8xJE8NgepZR1etrsU63fDDGxO&si=R_DmBzeRvazj7VEr)
 ### Libraries
+- [Ncurses : toolkit for developing "GUI-like" application software that runs under a terminal emulator](https://en.m.wikipedia.org/wiki/Ncurses)
 ## Tools
 - [Color Palettes (Coolors)](https://coolors.co/generate)
